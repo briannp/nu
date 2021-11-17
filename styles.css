@@ -1,0 +1,39 @@
+<style>
+
+@font-face {
+
+font-family:Wilson Wells;
+
+src: url(Wilson.ttf);
+
+}
+
+body {
+  background-image: url("concert.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+iframe {
+   left: 50%;
+   margin-top: -125px;
+   margin-left: -125px;
+   position: absolute;
+   top: 130%;
+   width: 250px;
+}
+
+h1
+{
+    font-family:Wilson Wells;
+    font-size: 200px;
+    left: 50%;
+    margin-top: -125px;
+    margin-left: -125px;
+    position: absolute;
+    top: 50%;
+    width: 250px;
+ }
+</style>
