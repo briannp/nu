@@ -25,11 +25,11 @@ iframe {
    width: 250px;
 }
 
-h1
+p
 {
     font-family:Wilson Wells;
     font-size: 200px;
-    font-weight: normal;
+    -webkit-text-stroke: 1px;
     left: 50%;
     margin-top: -125px;
     margin-left: -125px;
